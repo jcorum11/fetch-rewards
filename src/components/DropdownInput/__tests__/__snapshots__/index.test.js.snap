@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DropdownInput Matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-60wqy5-DropdownInput"
+  >
+    <label
+      class="css-1iyxaku-DropdownInput"
+      data-testid="stateinput-label"
+      for="State"
+    >
+      State: 
+    </label>
+    <select
+      class="css-vi962m-DropdownInput"
+      id="state"
+      name="state"
+    >
+      <option
+        value=""
+      >
+        Select a state
+      </option>
+    </select>
+  </div>
+</DocumentFragment>
+`;
